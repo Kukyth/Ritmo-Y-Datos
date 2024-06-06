@@ -1,0 +1,243 @@
+1
+00:00:00,390 --> 00:00:06,960
+Ahora lo que vamos a hacer es ejecutar un script cómo crear un script de python y luego ejecutarla.
+
+2
+00:00:06,960 --> 00:00:14,250
+Podemos hacer con el Ideele de Python simplemente entramos al Ideele de pavito se va abrir el intérprete
+
+3
+00:00:14,930 --> 00:00:19,020
+y aquí podemos desde aquí podemos crear un script cómo lo vamos a crear.
+
+4
+00:00:19,050 --> 00:00:21,850
+Vamos a ir donde dice Effy ni outfield.
+
+5
+00:00:21,870 --> 00:00:28,530
+En este caso vamos a poner Nefi y luego de eso se va a abrir una ventana una ventana vacía en el cual
+
+6
+00:00:28,710 --> 00:00:35,400
+podemos codificar código de Python o dar unas instrucciones y luego de eso guardarlas como un script.
+
+7
+00:00:35,580 --> 00:00:42,900
+Así que en este caso para mostrar un mensaje por pantalla vamos a utilizar la función prin de Poitou.
+
+8
+00:00:42,900 --> 00:00:48,360
+Esta función simplemente nos va a mostrar un mensaje por pantalla y también nos puede resolver operaciones
+
+9
+00:00:48,360 --> 00:00:55,170
+que ya hemos hecho en el intérprete por ejemplo aquí vamos a poner Prin y como ves aquí va a colorear.
+
+10
+00:00:55,230 --> 00:01:04,400
+Si cambiamos esto a Blanco vamos irakí y ejecutamos aquí y en este caso vamos a poner clásica ponemos
+
+11
+00:01:04,400 --> 00:01:09,130
+a aplicar Yokoi y como ves aquí también nos va a colorear vamos a poner aquí Prin.
+
+12
+00:01:09,150 --> 00:01:19,490
+Luego de eso aquí entre comillas vamos a poner Hola mundo así de simple se crea un script en Patton
+
+13
+00:01:19,490 --> 00:01:25,970
+de manera sencilla simplemente aquí hacemos una instrucción de una línea y ya podemos ejecutar este
+
+14
+00:01:25,970 --> 00:01:28,250
+script vamos a guardar para guardar.
+
+15
+00:01:28,250 --> 00:01:35,780
+Simplemente ponemos donde dice Maffei ahora vamos a poner SOIB y luego de eso vamos a buscar un directorio
+
+16
+00:01:35,780 --> 00:01:40,610
+donde guardarla por ejemplo yo lo voy a guardar en mi escritorio voy a crear una carpeta en este caso
+
+17
+00:01:40,610 --> 00:01:47,150
+le voy a llamar curso y un patio y dentro de esta carpeta voy a guardar de nombre aquí le voy a colocar
+
+18
+00:01:47,150 --> 00:01:54,610
+un nombre le voy a poner hola y simplemente pongo guardar oración me dirijo a escritorio voy a irme
+
+19
+00:01:54,610 --> 00:01:59,770
+de escritorio a la carpeta curso Peyton aquí tengo mi archivo que acabo de crear que es de tipo Poitou
+
+20
+00:02:00,680 --> 00:02:06,140
+ahora para ejecutarla en Ideele de Python es muy simple así que vamos a ingresar aquí donde estábamos
+
+21
+00:02:06,140 --> 00:02:14,270
+codificando simplemente vamos a ir donde dice run run módulo y en el intérprete que teníamos abierto
+
+22
+00:02:14,360 --> 00:02:20,660
+se va a ejecutar ese script automáticamente aquí va acceder hasta el directorio donde está el script
+
+23
+00:02:20,930 --> 00:02:28,510
+y luego de eso va a pasar a ejecutarlo entonces de esta forma con el Iraila de pañito podemos ejecutar
+
+24
+00:02:28,510 --> 00:02:29,460
+un script.
+
+25
+00:02:29,710 --> 00:02:35,920
+Ahora este script podemos modificar si regresamos aquí dentro de esta función también podemos hacer
+
+26
+00:02:35,920 --> 00:02:45,510
+operaciones así que ponemos Prin y aquí podríamos poner cuatro más cuatro cuando trabajamos con un script.
+
+27
+00:02:45,520 --> 00:02:51,190
+No podemos poner directamente como en el intérprete que poníamos cuatro más cuatro aquí nos ha mandar
+
+28
+00:02:51,190 --> 00:02:56,170
+un error siempre tenemos que enviar a esta función para que nos muestre por pantalla.
+
+29
+00:02:56,980 --> 00:03:02,800
+Entonces ahora lo que vamos a hacer para ejecutar es primero guardar porque si no guardamos no va a
+
+30
+00:03:02,890 --> 00:03:08,020
+ejecutarse los cambios que hemos hecho así que vamos a ir aquí a guardar y ahora si recién podemos poner
+
+31
+00:03:08,290 --> 00:03:14,530
+un módulo y aquí en este caso vamos a tener el Hola Mundo más el resultado de la suma que le hemos aplicado
+
+32
+00:03:14,540 --> 00:03:15,590
+en la función Prin.
+
+33
+00:03:16,340 --> 00:03:22,090
+Entonces de esta forma nosotros podemos crear un script con el ideal de Python pero cómo podemos crear
+
+34
+00:03:22,090 --> 00:03:29,080
+un script sin el Ideele utilizando bloc de notas simplemente sabemosque bloc de notas tenemos en nuestro
+
+35
+00:03:29,080 --> 00:03:32,150
+computador así que voy a eliminar este archivo.
+
+36
+00:03:32,530 --> 00:03:41,620
+Voy a abrir un bloc de notas y en este bloc de notas simplemente voy a poner un paréntesis y entre comillas
+
+37
+00:03:41,680 --> 00:03:51,750
+voy a poner Hola Mundo ahora de eso voy a guardar voy a guardar en la carpeta que he creado que estaba
+
+38
+00:03:51,750 --> 00:03:58,890
+en un escritorio curso Peyton y aquí voy a poner el nombre de Hola pero en este caso aquí me está marcando
+
+39
+00:03:58,890 --> 00:04:07,600
+que el tipo de dato va a ser el documento txt pero si te has fijado en el Ideele automáticamente marcaba
+
+40
+00:04:07,600 --> 00:04:14,530
+documento de Payton no era un quiste entonces para indicarle que este es un documento de PEIT un archivo
+
+41
+00:04:14,530 --> 00:04:15,070
+de Payton.
+
+42
+00:04:15,100 --> 00:04:18,530
+Vamos a poner aquí al lado del nombre punto.
+
+43
+00:04:18,700 --> 00:04:25,210
+Vamos a agregarle la extensión así que vamos a guardar y como ves en esta parte de la carpeta ya se
+
+44
+00:04:25,210 --> 00:04:27,880
+ha creado el archivo de Payton.
+
+45
+00:04:27,880 --> 00:04:32,400
+Ahora podemos ejecutarla para ejecutarla.
+
+46
+00:04:32,410 --> 00:04:34,390
+Vamos a hacer desde el CMD.
+
+47
+00:04:34,390 --> 00:04:40,090
+Vamos a poner aquí símbolo del sistema y ahora vamos a acceder a la ruta para acceder a una ruta o un
+
+48
+00:04:40,090 --> 00:04:48,340
+directorio vamos a utilizar el comando cd y luego de eso vamos a copiar la ruta de la carpeta en este
+
+49
+00:04:48,340 --> 00:04:55,890
+caso voy a poner copiar y cuando presionante click automáticamente me auto llena o cuando presiono clic
+
+50
+00:04:55,900 --> 00:04:56,740
+derecho.
+
+51
+00:04:56,750 --> 00:04:58,620
+Entonces simplemente presiono Enter.
+
+52
+00:04:58,630 --> 00:05:04,050
+Ahora estoy dentro de la carpeta curso guión Peyton y aquí puedo ejecutarlo de esta forma.
+
+53
+00:05:04,050 --> 00:05:12,300
+Pongo Payton y luego de eso voy a poner Hola punto y voy a tener el resultado de Hola mundo porque es
+
+54
+00:05:12,300 --> 00:05:16,850
+el único que tengo aquí en bloc de notas que he creado de Hola punto.
+
+55
+00:05:17,520 --> 00:05:22,410
+Ahora puedes ejecutar de esta forma a Payton o la punta Pi.
+
+56
+00:05:22,420 --> 00:05:29,710
+También puedes poner simplemente Hola punto Ping y si hacemos una modificación como en el anterior enviamos
+
+57
+00:05:29,710 --> 00:05:39,880
+tal vez una operación en la función Prin aquí podemos poner directamente 4 +4 entonces también tenemos
+
+58
+00:05:39,880 --> 00:05:46,350
+que guardar primero para pasar a ejecutar porque si no guardamos pues no va a suceder ningún cambio.
+
+59
+00:05:46,390 --> 00:05:53,590
+Entonces ahora que hemos guardado ejecutamos nuevamente y ahora tenemos estas dos resultados que hemos
+
+60
+00:05:53,590 --> 00:05:59,940
+hecho aquí que son dos instrucciones entonces de esta forma podemos crear un scrip ya sea desde ir a
+
+61
+00:05:59,940 --> 00:06:03,850
+l o simplemente con bloc de notas y empezar a trabajar.
